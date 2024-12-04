@@ -1,2 +1,2 @@
-# simple-banking-simulator
-Simple banking simulator(tracks your income, expenses and savings)
+# Simple-banking-simulator
+Simple banking simulator(tracks your income, expenses and savings), calculates your balance...
